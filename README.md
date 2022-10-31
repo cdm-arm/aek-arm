@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aek-arm aka @arnemoor - I'm working in the health sector
+- 👋 Hi, I’m @aek-arm aka [@arnemoor](https://github.com/arnemoor) - I'm working in the health sector
 - 👀 I’m interested in anything that simplifies work of myself and my co-workers
 
 <!---
