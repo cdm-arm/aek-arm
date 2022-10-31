@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @aek-arm aka @arnemoor
-- 👀 I’m interested in anything that simplifies my work
+- 👋 Hi, I’m @aek-arm aka @arnemoor - I'm working in the health sector
+- 👀 I’m interested in anything that simplifies work of myself and my co-workers
 
 <!---
 aek-arm/aek-arm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
